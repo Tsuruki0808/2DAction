@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetEfeDate.h(27,93): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetEfeDate.h(27,74): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetEfeDate.h(27,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetEfeDate.h(27,32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\Animation.h(146,24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\AddGravity.h(27,16): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\DrawEfe.h(20,13): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\DrawEfe.h(19,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\DrawEfe.h(18,11): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\DrawEfe.h(17,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetDrawing.h(20,93): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetDrawing.h(20,74): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetDrawing.h(20,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetDrawing.h(20,32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetDrawing.h(44,50): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\Headers\SetDrawing.h(43,86): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ydauser01\Desktop\2Dakusyon\main.cpp(53,28): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ydauser01\Desktop\2Dakusyon\main.cpp(117,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  LINK : 前回のインクリメンタル リンクで C:\Users\ydauser01\Desktop\2Dakusyon\x64\Debug\2Dakusyon.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+  2Dakusyon.vcxproj -> C:\Users\ydauser01\Desktop\2Dakusyon\x64\Debug\2Dakusyon.exe
